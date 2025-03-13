@@ -1,4 +1,4 @@
-#Handwritten Digit Recognition using LeNet-5 CNN Architecture on MNIST Digit Database
+#Handwritten Digit Recognition using LeNet-5 CNN Architecture on MNIST Digit Database.
 ##Objective
 The objective of a handwritten digit recognition project using the LeNet-5 CNN architecture on the MNIST dataset is to develop and evaluate a machine learning model that can accurately classify images of handwritten digits (0-9). Here are the key objectives and goals for such a project:
 1.Develop a CNN Model: Implement the LeNet-5 convolutional neural network architecture to process and classify images of handwritten digits.
